@@ -4,18 +4,17 @@ highlighter: pygments
 permalink: /:title.html
 relative_permalinks: false
 
-default_theme: ribbon
 default_width: 792
 default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: Peter Ljunglöf
+    url:  http://www.cse.chalmers.se/~peb
     company:
-        name: Famous Inc.
+        name: University of Gothenburg & Chalmers University of Technology
         # url:  http://example.com/
 
-fork_url: https://github.com/shower/shower
 progress: true
-line_numbers: true
+line_numbers: false
+
