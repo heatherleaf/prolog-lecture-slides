@@ -432,9 +432,9 @@ a {
 		position: absolute;
 		clip: rect(0, auto, auto, 0); /* Having fun with IE10 */
 		padding: 80px 0 40px 100px;
-		background: #585A5E url(../images/linen.png);
+		background: #585A5E url(images/linen.png);
 		@include retina {
-			background-image: url(../images/linen@2x.png);
+			background-image: url(images/linen@2x.png);
 			background-size: 256px;
 		}
 
